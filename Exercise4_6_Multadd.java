@@ -42,3 +42,10 @@ public class Exercise4_6_Multadd {
         System.out.println(expSumResult);
     }
 }
+
+/*KODUN CIKTISI
+5.0
+1.0606601717798212
+5.298317366548037
+1.0303150673048738*/
+
