@@ -1,3 +1,9 @@
+/**
+ * Ad Soyad: [Hayrunnisa Ekinci]
+ * Öğrenci No: [240541043]
+ * Proje: [Exercise4_3]
+ * Tarih: [03/12/2025]
+ */
 public class Exercise4_3 {
 
     public static void zoop() {
@@ -22,3 +28,8 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+
+//KODUN ÇIKTISI
+No , I wug.
+ You wugga wug.
+I wug.
