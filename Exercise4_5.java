@@ -34,11 +34,11 @@ public class Exercise4_5 {
 }
 
 
-//KODUN ÇIKTISI
+/*KODUN ÇIKTISI
 just for
 any not more 
 It's breakfast
-!
+!*/
 
 
 
