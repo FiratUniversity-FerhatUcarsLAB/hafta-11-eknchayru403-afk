@@ -29,7 +29,7 @@ public class Exercise4_3 {
     }
 }
 
-//KODUN ÇIKTISI
-//No , I wug.
-//You wugga wug.
-//I wug.
+/*KODUN ÇIKTISI
+No , I wug.
+You wugga wug.
+I wug.*/
