@@ -1,3 +1,10 @@
+/**
+ * Ad Soyad: [Hayrunnisa Ekinci]
+ * Öğrenci No: [240541043]
+ * Proje: [Exercise4_5]
+ * Tarih: [03/12/2025]
+ */
+
 public class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
@@ -25,3 +32,14 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+
+//KODUN ÇIKTISI
+just for
+any not more 
+It's breakfast
+!
+
+
+
+
