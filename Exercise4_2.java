@@ -27,4 +27,17 @@ public class Exercise4_2 {
         }//11
     }
 }
+// KODUN ÇIKTISI
+
+ik
+rattle
+ping zoop
+boo-wa-ha-ha
+
+//
+
+ // Ek Sorunun Cevabı
+
+// 1. baffle metoduna ilk gönderilen blimp parametresinin değeri:
+// "rattle"
                                                              
