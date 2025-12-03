@@ -27,12 +27,12 @@ public class Exercise4_2 {
         }//11
     }
 }
-// KODUN ÇIKTISI
 
-//ik
-//rattle
-//ping zoop
-//boo-wa-ha-ha
+/* KODUN ÇIKTISI
+ik
+rattle
+ping zoop
+boo-wa-ha-ha*/
 
 //
 
